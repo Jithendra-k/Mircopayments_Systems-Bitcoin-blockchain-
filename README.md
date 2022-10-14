@@ -1,4 +1,4 @@
-See the video at my site.
-I will update the the video link here also.
+#Mircopayments_Systems-Bitcoin-blockchain
 
-site link: http://talktovik.github.io/
+
+
